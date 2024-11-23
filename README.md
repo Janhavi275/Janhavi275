@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Janhavi275
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning BE computer engineering 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently persuing BE computer engineering 
+- 💞️ I’m looking to collaborate on live projects
 - 📫 email- janhavisonar2005@gmail.com
 - linkedin - https://www.linkedin.com/in/janhavi-sonar-aa0779258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
